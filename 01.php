@@ -1,2 +1,2 @@
 <?php
-echo "你好，SVN";
+echo "你好，Git";
